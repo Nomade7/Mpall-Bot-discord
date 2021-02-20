@@ -3,4 +3,6 @@
 1 : Download NodeJs 
 https://nodejs.org/
 
-2 : Edit "Token" 
+2 : Edit "Token" & "Your text has been published in private message"
+
+3 : Start.bat
