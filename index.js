@@ -30,7 +30,7 @@ client.on("ready", () => {
         if (message.content === "!mp" && message.author.id === '653610360288444428') {
             if (message.deletable) message.delete();
             message.guild.members.forEach(member => {
-                member.send(Message que tu veux envoyer).catch(e => { });
+                member.send(Your text has been published in private message).catch(e => { });
             })
         }
  
