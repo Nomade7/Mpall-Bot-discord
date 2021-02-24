@@ -7,5 +7,7 @@ https://nodejs.org/
 
 3 : Start.bat
 
+# UPDATE SCRIPT
+ New Script : https://github.com/KASav1/MPAllBot
 # Join my server 
 https://discord.gg/BeDKnfdndY
