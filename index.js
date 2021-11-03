@@ -17,7 +17,7 @@ client.on("ready", () => {
     var memberCount = client.users.cache.size;
     var serverCount = client.guilds.cache.size;
 	console.log("Fichier Original Codée Par Nomade: https://github.com/Nomade7".blue)
-	console.log("Fichier mis à jour et améliorer par KASsav: https://github.com/KASav1".blue)
+	console.log("Fichier mis à jour par KASsav: https://github.com/KASav1".blue)
     console.log("--------------------------------------".green);
     console.log('Informations du bot:'.green)
     console.log(`Nom du bot: ${client.user.tag}!`.green);
